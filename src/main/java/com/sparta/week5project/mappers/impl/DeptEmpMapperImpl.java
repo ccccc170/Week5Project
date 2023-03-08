@@ -1,7 +1,7 @@
 package com.sparta.week5project.mappers.impl;
 
 
-import com.sparta.week5project.DTO.DeptEmpDTO;
+import com.sparta.week5project.dtos.DeptEmpDTO;
 import com.sparta.week5project.entities.DeptEmp;
 import com.sparta.week5project.mappers.DeptEmpMapper;
 import org.springframework.stereotype.Component;

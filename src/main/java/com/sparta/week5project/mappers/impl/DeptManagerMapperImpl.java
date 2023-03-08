@@ -1,6 +1,6 @@
 package com.sparta.week5project.mappers.impl;
 
-import com.sparta.week5project.DTO.DeptManagerDTO;
+import com.sparta.week5project.dtos.DeptManagerDTO;
 import com.sparta.week5project.entities.DeptManager;
 import com.sparta.week5project.mappers.DeptManagerMapper;
 import org.springframework.stereotype.Component;

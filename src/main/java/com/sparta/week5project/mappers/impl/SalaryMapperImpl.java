@@ -1,6 +1,6 @@
 package com.sparta.week5project.mappers.impl;
 
-import com.sparta.week5project.DTO.SalaryDTO;
+import com.sparta.week5project.dtos.SalaryDTO;
 import com.sparta.week5project.entities.Salary;
 import com.sparta.week5project.mappers.SalaryMapper;
 import org.springframework.stereotype.Component;

@@ -1,6 +1,6 @@
 package com.sparta.week5project.mappers.impl;
 
-import com.sparta.week5project.DTO.TitleDTO;
+import com.sparta.week5project.dtos.TitleDTO;
 import com.sparta.week5project.entities.Title;
 import com.sparta.week5project.mappers.TitleMapper;
 import org.springframework.stereotype.Component;

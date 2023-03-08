@@ -1,10 +1,9 @@
 package com.sparta.week5project;
 
-import com.sparta.week5project.DAO.impl.EmployeeDAO;
+import com.sparta.week5project.daos.impl.EmployeeDAO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
 public class Week5ProjectApplication {
